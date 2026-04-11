@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:2b2b2b&height=180&section=header&text=Rudhran%20B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Focused%20Developer%20%7C%20Web%20Engineering%20%7C%20Machine%20Learning&descAlignY=58" alt="Rudhran B banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:242424&height=200&section=header&text=Rudhran%20B&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Cybersecurity%20Focused%20Developer%20%7C%20Secure%20Web%20Engineering%20%7C%20Machine%20Learning&descAlignY=58" alt="Rudhran B banner" width="100%" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rudhrancodes-dev&style=for-the-badge&color=0a0a0a)](https://github.com/rudhrancodes-dev)
 [![Followers](https://img.shields.io/github/followers/rudhrancodes-dev?style=for-the-badge&color=111111)](https://github.com/rudhrancodes-dev?tab=followers)
@@ -42,6 +42,13 @@ Most of my work sits at the intersection of:
 - Better frontend experiences with stronger branding and UI polish
 - More professional repository documentation and structure
 - Projects that feel closer to production-ready engineering work
+
+## Currently Learning
+
+- stronger secure software design practices
+- better system design thinking for scalable projects
+- more polished frontend architecture and UI execution
+- improving machine learning project presentation and deployment
 
 ---
 
@@ -123,6 +130,7 @@ Right now, I’m investing in:
 
 ![Rudhran's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudhrancodes-dev&show_icons=true&theme=transparent&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudhrancodes-dev&layout=compact&theme=transparent&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rudhrancodes-dev&theme=transparent&hide_border=true)
 
 </div>
 
